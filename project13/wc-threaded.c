@@ -1,7 +1,5 @@
 /*
 Name: William Chung
-Login: Wchung1
-ID Number: 116609968
 Section Number: 0101
 
 The program prints number of lines,  words,
