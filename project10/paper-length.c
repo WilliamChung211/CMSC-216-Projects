@@ -6,8 +6,6 @@
 
 /*
  * Name: William Chung
- * ID: Wchung1
- * UID: 116609968
  * Discusion Number:0101
  *
  * This file forks a child to read a paer, 
