@@ -10,8 +10,6 @@
 
 /*
  * Name: William Chung
- * ID: Wchung1
- * UID: 116609968
  * Discusion Number:0101
  *
  * This file represent a program that represents a simulation
