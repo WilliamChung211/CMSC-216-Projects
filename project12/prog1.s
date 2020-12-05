@@ -1,6 +1,4 @@
 # Name: William Chung
-# Login: Wchung1
-# ID Number: 116609968
 # Section Number: 0101
 
 # This program reads an integer from input
