@@ -4,8 +4,6 @@
 
 /*
  * Name: William Chung
- * TerpConnect ID: Wchung1
- * University ID: 116699068
  * Discussion Section Number: 0101
  * This program and file represents
  * a structure that represents a student
