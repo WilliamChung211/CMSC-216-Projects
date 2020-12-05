@@ -1,6 +1,4 @@
 #Name: William Chung
-#ID: Wchung1 
-#UID: 116609968 
 #Discusion Number:0101 
 
 CC = gcc
